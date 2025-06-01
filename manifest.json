@@ -1,0 +1,14 @@
+{
+  "name": "LarrysModRemake",
+  "version_number": "3.1.0",
+  "website_url": "https://github.com/thunderstore-io",
+  "description": "Mod that adds some new settings like",
+  "dependencies": 
+  [
+  "BepInEx-BepInExPack_ROUNDS-5.4.1900",
+  "willis81808-UnboundLib-3.2.13",
+  "Pykess-Pick_N_Cards-0.2.6",
+  "Pandapip1-SelectAnyNumber-1.2.4",
+  "willuwontu-WillsWackyGameModes-0.0.6"
+  ]
+}

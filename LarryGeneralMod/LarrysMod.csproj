@@ -1,0 +1,65 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Patches\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="0Harmony">
+      <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\cache\BepInEx-BepInExPack_ROUNDS\5.4.1901\BepInExPack_ROUNDS\BepInEx\core\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp">
+      <HintPath>deps\Assembly-CSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="BepInEx">
+      <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\cache\BepInEx-BepInExPack_ROUNDS\5.4.1901\BepInExPack_ROUNDS\BepInEx\core\BepInEx.dll</HintPath>
+    </Reference>
+    <Reference Include="ConfigurationManager">
+      <HintPath>deps\ConfigurationManager.dll</HintPath>
+    </Reference>
+    <Reference Include="Photon3Unity3D">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\ROUNDS\Rounds_Data\Managed\Photon3Unity3D.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonRealtime">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\ROUNDS\Rounds_Data\Managed\PhotonRealtime.dll</HintPath>
+    </Reference>
+    <Reference Include="PhotonUnityNetworking">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\ROUNDS\Rounds_Data\Managed\PhotonUnityNetworking.dll</HintPath>
+    </Reference>
+    <Reference Include="PickAnyNumber">
+      <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\cache\Pandapip1-SelectAnyNumber\1.2.4\SelectAnyNumber\BepInEx\plugins\PickAnyNumber.dll</HintPath>
+    </Reference>
+    <Reference Include="PickNCards">
+      <HintPath>..\..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\cache\Pykess-Pick_N_Cards\0.2.6\PickNCards.dll</HintPath>
+    </Reference>
+    <Reference Include="UnboundLib">
+      <HintPath>..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\cache\willis81808-UnboundLib\3.2.13\plugins\UnboundLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextMeshPro">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\ROUNDS\Rounds_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>bin\Debug\netstandard2.1\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.AssetBundleModule">
+      <HintPath>bin\Debug\netstandard2.1\UnityEngine.AssetBundleModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>bin\Debug\netstandard2.1\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Physics2DModule">
+      <HintPath>bin\Debug\netstandard2.1\UnityEngine.Physics2DModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UI">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Steam\steamapps\common\ROUNDS\Rounds_Data\Managed\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="WillsWackyGameModes">
+      <HintPath>..\..\..\AppData\Roaming\Thunderstore Mod Manager\DataFolder\ROUNDS\cache\willuwontu-WillsWackyGameModes\0.0.6\WillsWackyGameModes.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
