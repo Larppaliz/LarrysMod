@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b3b402aa-7804-48ed-96be-7c4efdcdceaa)![image](https://github.com/user-attachments/assets/bf552d42-533b-47df-8acf-3d454def0ac1)This is a simple mod that just has some settings for card drawing and such.
+This is a simple mod that just has some settings for card drawing and such.
 
 ![image](https://github.com/user-attachments/assets/e21a858b-ecb9-4def-8493-e8dd6d4c940d)
 
